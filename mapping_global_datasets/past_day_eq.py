@@ -33,7 +33,7 @@ data = [{
         'color': mags,
         'colorscale': 'Viridis',
         'reversescale': True,
-        'colorbar': {'title': 'Magnitude'},
+        'colorbar': {'title': 'Magnitudes'},
     }
 }]
 
